@@ -1,4 +1,3 @@
-```md
 # Hi, I’m Ilya Kuznetsov
 
 I build practical, product-focused software — from Android apps to Web3 tooling and small SaaS experiments.
@@ -22,8 +21,6 @@ A consumer-facing calculator to compare “what are my options” scenarios arou
 - DevOps and pragmatic deployment (Docker, reverse proxies, VPS)
 - Web3 integrations when they add real value (not for its own sake)
 
-
-```
 
 
 <!--
