@@ -6,25 +6,31 @@ I build practical, product-focused software — from Android apps to Web3 toolin
 
 ### Anotepad (Android, open source)
 A lightweight note-taking app where each note is a plain text file. Designed to stay simple, fast, and portable, with optional Google Drive sync for those who want it.
+
 https://play.google.com/apps/com.anotepad
 
 ### Fideseal (SaaS / Web3 timestamping)
 A proof-of-existence / timestamping service: create verifiable timestamps for documents and text (e.g., Terms, policies, agreements, proofs) anchored on a blockchain for auditability.
+
 https://fideseal.com
 
 ### Blood Donation Map (Israel)
 A web app that visualizes Magen David Adom (MDA) blood donation station locations across Israel on an interactive map, helping users find nearby stations and register for donation appointments.  
+
 https://tirmudam.org
 
 ### FeedCraft (Telegram bot)
 A multi-purpose Telegram bot that aggregates news from Telegram channels, generates condensed AI-powered digests, and auto-publishes summaries to your channels.  
+
 https://t.me/FeedCraft
 
 ### TrustTag (Chrome extension)
 A Chrome extension that displays warning banners on websites with questionable content. It helps users identify potentially misleading or problematic pages with visible alerts and custom notes.
 
+https://chromewebstore.google.com/detail/trusttag/jgbofdbbkfhjeohdgaccpldojokpofdl
+
 ### Collectim / Shortie (video sharing + tracking)
-A small service for sharing short videos with reliable previews and delivery. Focused on practical distribution (CDN-based) and lightweight tracking/analytics for engagement.
+A small service for sharing short videos with reliable previews and delivery. Focused on practical distribution (CDN-based) and lightweight tracking/analytics for engagement. Built on AWS.
 
 ### CarLoanExit (consumer calculator)
 A consumer-facing calculator to compare “what are my options” scenarios around car loan distress (e.g., sell vs surrender vs other paths). Built as a funnel-friendly tool with clear outputs.
