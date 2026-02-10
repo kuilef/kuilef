@@ -13,8 +13,8 @@ A proof-of-existence / timestamping service: create verifiable timestamps for do
 ### [Blood Donation Map](https://tirmudam.org) (Israel)
 A web app that visualizes Magen David Adom (MDA) blood donation station locations across Israel on an interactive map, helping users find nearby stations and register for donation appointments.
 
-### [FeedCraft](https://t.me/FeedCraft) (Telegram bot)
-A multi-purpose Telegram bot that aggregates news from Telegram channels, generates condensed AI-powered digests, and auto-publishes summaries to your channels.
+### [FeedCraft](https://t.me/FeedCraftbot) (Telegram bot)
+A multi-purpose Telegram bot that aggregates news from user selected Telegram channels, generates condensed AI-powered digests, and auto-publishes summaries to your channels.
 
 ### [TrustTag](https://chromewebstore.google.com/detail/trusttag/jgbofdbbkfhjeohdgaccpldojokpofdl) (Chrome extension)
 A Chrome extension that displays warning banners on websites with questionable content. It helps users identify potentially misleading or problematic pages with visible alerts and custom notes.
