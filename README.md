@@ -4,7 +4,7 @@ I build practical, product-focused software — from Android apps to Web3 toolin
 
 ## Projects
 
-### [Anotepad](https://play.google.com/apps/com.anotepad) (Android, open source)
+### [Anotepad](https://play.google.com/store/apps/details?id=com.anotepad) (Android, open source)
 A lightweight note-taking app where each note is a plain text file. Designed to stay simple, fast, and portable, with optional Google Drive sync for those who want it.
 
 ### [Fideseal](https://fideseal.com) (SaaS / Web3 timestamping)
