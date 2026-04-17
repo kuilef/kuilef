@@ -4,6 +4,9 @@ I build practical, product-focused software — from Android apps to Web3 toolin
 
 ## Projects
 
+### [Read with kid](https://read-with-kid.com)
+Read With Kid is a cozy app for synchronous reading between adults and children across devices.
+
 ### [Anotepad](https://play.google.com/store/apps/details?id=com.anotepad) (Android, open source)
 A lightweight note-taking app where each note is a plain text file. Designed to stay simple, fast, and portable, with optional Google Drive sync for those who want it.
 
