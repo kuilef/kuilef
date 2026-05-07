@@ -28,7 +28,14 @@ A small service for sharing short videos with reliable previews and delivery. Fo
 ### CarLoanExit (consumer calculator)
 A consumer-facing calculator to compare “what are my options” scenarios around car loan distress (e.g., sell vs surrender vs other paths). Built as a funnel-friendly tool with clear outputs.
 
+## Archived experiments / Research notes
+I keep short notes on some archived explorations because the lessons are often as valuable as shipped projects.
 
+- **MEV / swap solver experiments** — explored routing and arbitrage opportunities across swaps. Paused after finding that opportunity distribution was too uneven and many practical swaps were close to 1:1, leaving little robust edge after fees and execution costs.
+
+- **Renko charts analysis** — tested whether Renko-based signals produced a stable trading edge. Results were roughly breakeven after realistic assumptions, so I stopped before overfitting the strategy.
+
+- **Stabilize-style wrapper rotation research** — analyzed mean-reversion rotation across stablecoins and ETH staking wrappers. The signal was directionally present, but after NAV normalization, stress-period exclusion, gas, slippage, and DEX fees, the ordinary-period edge was too thin for production deployment.
 
 <!--
 **kuilef/kuilef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
