@@ -31,7 +31,7 @@ A consumer-facing calculator to compare “what are my options” scenarios arou
 ## Archived experiments / Research notes
 I keep short notes on some archived explorations because the lessons are often as valuable as shipped projects.
 
-- **MEV / swap solver experiments** — explored routing and arbitrage opportunities across swaps. Paused after finding that opportunity distribution was too uneven and many practical swaps were close to 1:1, leaving little robust edge after fees and execution costs.
+- **COW swap solver experiments** — explored routing and arbitrage opportunities across swaps. Paused after finding that opportunity distribution was too uneven and many practical swaps were close to 1:1, leaving little robust edge after fees and execution costs.
 
 - **Renko charts analysis** — tested whether Renko-based signals produced a stable trading edge. Results were roughly breakeven after realistic assumptions, so I stopped before overfitting the strategy.
 
