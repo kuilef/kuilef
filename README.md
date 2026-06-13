@@ -8,7 +8,7 @@ I build practical, product-focused software — from Android apps to Web3 toolin
 Read With Kid is a cozy app for synchronous reading between adults and children across devices.
 
 ### [Anotepad](https://play.google.com/store/apps/details?id=com.anotepad) (Android, open source)
-A lightweight note-taking app where each note is a plain text file. Designed to stay simple, fast, and portable, with optional Google Drive sync for those who want it.
+A lightweight note-taking app where each note is a plain text file. Designed to stay simple, fast, and portable, with optional Google Drive sync.
 
 ### [Fideseal](https://fideseal.com) (SaaS / Web3 timestamping)
 A proof-of-existence / timestamping service: create verifiable timestamps for documents and text (e.g., Terms, policies, agreements, proofs) anchored on a blockchain for auditability.
